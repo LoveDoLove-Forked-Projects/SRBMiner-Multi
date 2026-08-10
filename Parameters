@@ -96,7 +96,7 @@ Gpu OC parameters
 --gpu-fan1                      (A1 - set fan speed (in %), separate values with ',' [NVIDIA only])
 --a0-oc-script filename         (run script when algorithm 0 becomes active - set OC)
 --a1-oc-script filename         (run script when algorithm 1 becomes active - set OC)
---oc-coffset-delayed            (apply A0 core clock offset after 5 hashing iterations per GPU, then run 5 settling iterations [NVIDIA only])
+--oc-coffset-delayed            (apply cclock and coffset delayed [NVIDIA only])
 --oc-delay value                (delay in seconds after A0 or A1 OC was applied. Def. is 3, max is 120)
 
 
