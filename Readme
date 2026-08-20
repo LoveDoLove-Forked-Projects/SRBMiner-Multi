@@ -96,11 +96,9 @@ DUAL MINEABLE ALGORITHMS:
 ===========================================
 
 fishhash + qhash
-fishhash + walahash
 fishhash + blake3_decred
 
 autolykos2 + qhash
-autolykos2 + walahash
 autolykos2 + blake3_decred
 autolykos2 + heavyhash
 
@@ -109,8 +107,6 @@ etchash + heavyhash
 
 ethash + blake3_decred
 ethash + heavyhash
-
-karlsenhashv2 + blake3_decred
 
 xhash + qhash
 xhash + blake3_decred
